@@ -1,18 +1,10 @@
 #summary Dependencies needed for development.
 #labels Featured,Phase-Design
 
-= Essentials =
-
 We are targeting [http://www.python.org/download/releases/2.5/ Python 2.5].  
 
 This project follows the concepts of [http://en.wikipedia.org/wiki/Test_driven_development test driven development].  We use [http://ivory.idyll.org/articles/nose-intro.html Nose] for [http://en.wikipedia.org/wiki/Unit_test unit testing].  
 
-= Client Development =
-
 We plan on using [http://www.pyglet.org/ pyglet] for a graphical poker client.
 
 We have yet to decide on a networking architecture or API.  We are evaluating the use of [http://wiki.secondlife.com/wiki/Eventlet Eventlet] or [http://twistedmatrix.com/trac/ Twisted].
-
-= Server Development =
-
-TBD
