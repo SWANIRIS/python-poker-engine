@@ -1,11 +1,6 @@
 #summary Dependencies needed for development.
 #labels Featured,Phase-Design
 
-= Introduction =
-
-This page describes the dependencies required to develop the python-poker-engine.
-
-
 = Essentials =
 
 We are targeting [http://www.python.org/download/releases/2.5/ Python 2.5].  
